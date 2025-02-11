@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
+    "title": "Whatsapp Sticker Search",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This project enhances the use of stickers during WhatsApp conversation by enabling search option in the stickers section.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://jyotiyadav2005.github.io/whatsapp_sticker_search/",
+    "source": "https://github.com/JyotiYadav2005/whatsapp_sticker_search"
   },
   {
-    "title": "Project B",
+    "title": "Enhancing Group Chats",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to further enhance how we interact in group chats(WhatsApp). It filters messages based on requirements.",
+    "skills": ["React", "Javascript", "Node"],
+    "demo": "https://jyotiyadav2005.github.io/group-chat",
+    "source": "https://github.com/JyotiYadav2005/group-chat"
   }
 ]
