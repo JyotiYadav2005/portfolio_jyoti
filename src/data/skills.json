@@ -14,5 +14,13 @@
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Data Analytics",
+    "imageSrc": "skills/data_analytics.png"
   }
 ]
