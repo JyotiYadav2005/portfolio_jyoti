@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_jyoti/static/css/main.e8fc4d70.css",
+    "main.js": "/portfolio_jyoti/static/js/main.cd8d0b44.js",
+    "index.html": "/portfolio_jyoti/index.html",
+    "main.e8fc4d70.css.map": "/portfolio_jyoti/static/css/main.e8fc4d70.css.map",
+    "main.cd8d0b44.js.map": "/portfolio_jyoti/static/js/main.cd8d0b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fc4d70.css",
+    "static/js/main.cd8d0b44.js"
+  ]
+}
